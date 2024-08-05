@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @ddiseri0, my real name is Davide Di Serio and I am a graduating student in Computer Science and Automation Engineer. 
-Here, you can find some codes I made during university courses and some projects I’m now working on in order to refine my skills.
+# Hi 👋, I'm Davide Di Serio
 
-- 👀 I’m interested in Software Development and Cloud Computing
+A passionate Software Engineer currently working in IT consulting for financial services.
 
-- 📫 How to reach me:
-      email: davide.diserio@gmail.com
-      linkedin: https://www.linkedin.com/in/davide-di-serio-3920151a2/
+- 🔭 I’m currently working on transitioning legacy systems from COBOL to Java with Spring Boot for be, and from JSF to Angular with NgRx Store for fe
+- 🌱 I’m interested in Software Development and Cloud Computing
+- 📫 How to reach me: [davide.diserio@gmail.com](mailto:davide.diserio@gmail.com) / [LinkedIn](https://www.linkedin.com/in/davide-di-serio-3920151a2/)
+
+## Projects and Portfolio
+
+- 🖥️ Check out my [portfolio](#)
+- 🔧 Some codes from my university courses and some personal projects can be found in my repositories
+
+Feel free to connect with me or check out my work!
